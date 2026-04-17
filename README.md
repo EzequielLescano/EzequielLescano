@@ -10,10 +10,12 @@
 - :student: I’m currently learning deeper concepts of `Information Systems` and software development.
 - :nerd_face: Always `learning new things` and building personal projects.
 - :thinking: I’m currently open for a new `job opportunity` or `internship`.
- <p>
-	<a href="mailto:ezenostale1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 <br>
-
+📫 Social links
+ <p><a href="mailto:ezenostale1@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://wa.me/5493442645120" target="_blank"> <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+</p>
+ 
 ### 🤝 Familiar with / Past Experience:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
